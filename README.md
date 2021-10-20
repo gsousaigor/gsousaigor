@@ -11,14 +11,13 @@
 </h4>
 
 <h3 align="center">
- <br>
 Olá, eu sou o Igor!
-<br>
-Analista de suporte senior, e amante de tecnologia.
-<br>
-Formado Técnico em Telecomunicações pela ETEC Getulio Vargas, <br>
- Técnologo em Redes de computadores pelo Centro universitário Sumaré, <br>
- Focando meus estudos em desenvolvimento front-end & back-end e mobile. =)
+ <br>
+Analista de suporte sênior, e amante de tecnologia.
+ <br>
+Formado Técnico em Telecomunicações pela ETEC Getúlio Vargas,
+Tecnólogo em Redes de computadores pelo Centro universitário Sumaré,
+Focando meus estudos em desenvolvimento front-end & back-end e mobile. =)
 </h3>
 
 <br>
