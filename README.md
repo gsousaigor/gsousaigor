@@ -17,6 +17,7 @@ Analista de suporte sênior, e amante de tecnologia.
  <br>
 Formado Técnico em Telecomunicações pela ETEC Getúlio Vargas,
 Tecnólogo em Redes de computadores pelo Centro universitário Sumaré,
+<br>
 Focando meus estudos em desenvolvimento front-end & back-end e mobile. =)
 </h3>
 
