@@ -23,5 +23,5 @@ Formado Técnico em Telecomunicações pela ETEC Getulio Vargas, <br>
 
 <br>
 
-![A GitHub stats](https://github-readme-stats.vercel.app/api?username=gsousaigor&show_icons=true&theme=tokyonight)
+![A GitHub stats](https://github-readme-stats.vercel.app/api?username=gsousaigor&show_icons=true&theme=tokyonight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsousaigor&layout=compact&theme=tokyonight)](https://github.com/gsousaigor)
