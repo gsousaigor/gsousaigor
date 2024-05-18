@@ -23,6 +23,7 @@
             <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         </div>
     </div>
+    <br>
 
 ### Socials
 <p>
@@ -35,7 +36,10 @@
                 <a href="https://www.github.com/gsousaigor" target="_blank" rel="noopener noreferrer"><img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"></a>
             </div>
     </div>
+<br>
+
 ### Badges
+
 <div align="left">
         <div style="display: inline_block"><br>
 <a href="https://www.github.com/gsousaigor"><img src="https://github-readme-stats.vercel.app/api?username=gsousaigor&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="gsousaigor's GitHub stats" />
