@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=gsousaigor&label=Profile%20views&color=8042fc&style=plastic" alt="gsousaigor" /> 
 
 ### Skills
-<br>
+<p>
     <div align="left">
         <div style="display: inline_block"><br>
             <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,16 +35,13 @@
                 <a href="https://www.github.com/gsousaigor" target="_blank" rel="noopener noreferrer"><img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"></a>
             </div>
     </div>
-
 ### Badges
 <div align="left">
         <div style="display: inline_block"><br>
-<a href="https://www.github.com/gsousaigor"><img src="https://github-readme-stats.vercel.app/api?username=gsousaigor&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="gsousaigor's GitHub stats" /></a>
-
-
+<a href="https://www.github.com/gsousaigor"><img src="https://github-readme-stats.vercel.app/api?username=gsousaigor&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="gsousaigor's GitHub stats" />
+</a>
 <img src="https://github.com/gilbertogoncalvesdelima/gilbertogoncalvesdelima/blob/output/github-contribution-grid-snake.svg">
 </div>
     </div>
-
 ### Support Me
 <a href="#"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
