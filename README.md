@@ -28,6 +28,8 @@
     <br>
 
 ### Socials
+
+[<img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg">](http://www.instagram.com/gsousaigor.dev)
 <p>
     <div align="left">
         <div style="display: inline_block"><br>
