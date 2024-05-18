@@ -32,7 +32,7 @@
 [<img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg">](https://www.instagram.com/gsousaigor.dev)
 [<img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">](https://www.linkedin.com/in/gsousaigor/)
 [<img align="center" height="35" width="35" src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png">](https://znap.link/gsousaigor)
-[<img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">](https://www.github.com/gsousaigor)
+[<img align="center" height="35" width="35" src="[https://github.com/gsousaigor/repo-storage/blob/main/github-mark-white.png">](https://www.github.com/gsousaigor)
 
 ### Badges
 
