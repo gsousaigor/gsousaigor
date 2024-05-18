@@ -1,7 +1,9 @@
-<h1>Hi , I am Igor Garcia Sousa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2>  JUNIOR DEVELOPER </h2>
+# Hi , I am Igor Garcia Sousa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+##  JUNIOR DEVELOPER
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
+<img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>
+
+###  About me
 
 - Hello Everyone 👋, My name is Igor and my nickname is Iggao<br>
 - I'm Senior IT Support Analyst 💻.<br>
@@ -28,25 +30,29 @@
 ### Socials
 <p>
     <div align="left">
-            <div style="display: inline_block"><br>
-                <a href="http://www.instagram.com/gsousaigor.dev" target="_blank" rel="noopener noreferrer"><img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"></a>
-                <a href="https://www.linkedin.com/in/gsousaigor/" target="_blank" rel="noopener noreferrer"><img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"></a>
-                <a href="#" target="_blank" rel="noopener noreferrer"><img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg"></a>
-                <a href="https://znap.link/gsousaigor" target="_blank" rel="noopener noreferrer"><img align="center" height="35" width="35" src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png"></a>
-                <a href="https://www.github.com/gsousaigor" target="_blank" rel="noopener noreferrer"><img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"></a>
-            </div>
+        <div style="display: inline_block"><br>
+            <a href="http://www.instagram.com/gsousaigor.dev" target="_blank" rel="noopener noreferrer"><img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg">
+            </a>
+            <a href="https://www.linkedin.com/in/gsousaigor/" target="_blank" rel="noopener noreferrer"><img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">
+            </a>
+            <a href="https://znap.link/gsousaigor" target="_blank" rel="noopener noreferrer"><img align="center" height="35" width="35" src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png">
+            </a>
+            <a href="https://www.github.com/gsousaigor" target="_blank" rel="noopener noreferrer"><img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
+            </a>
+        </div>
     </div>
-<br>
 
 ### Badges
 
 <div align="left">
-        <div style="display: inline_block"><br>
-<a href="https://www.github.com/gsousaigor"><img src="https://github-readme-stats.vercel.app/api?username=gsousaigor&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="gsousaigor's GitHub stats" />
-</a>
-<img src="https://github.com/gilbertogoncalvesdelima/gilbertogoncalvesdelima/blob/output/github-contribution-grid-snake.svg">
-</div>
+    <div style="display: inline_block"><br>
+        <a href="https://www.github.com/gsousaigor" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=gsousaigor&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="gsousaigor's GitHub stats" />
+        </a>
+    <img src="https://github.com/gilbertogoncalvesdelima/gilbertogoncalvesdelima/blob/output/github-contribution-grid-snake.svg">
     </div>
+</div>
     
 ### Support Me
-<a href="https://link.mercadopago.com.br/iggaodev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<a href="https://link.mercadopago.com.br/iggaodev" target="_blank" rel="noopener noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+</a>
