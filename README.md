@@ -30,14 +30,9 @@
 ### Socials
 
 [<img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg">](http://www.instagram.com/gsousaigor.dev)
-            (https://www.linkedin.com/in/gsousaigor/)[<img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">]
-            </a>
-            <a href="https://znap.link/gsousaigor" target="_blank" rel="noopener noreferrer"><img align="center" height="35" width="35" src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png">
-            </a>
-            <a href="https://www.github.com/gsousaigor" target="_blank" rel="noopener noreferrer"><img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
-            </a>
-        </div>
-    </div>
+[<img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg">](https://www.linkedin.com/in/gsousaigor/)
+[<img align="center" height="35" width="35" src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png">](href="https://znap.link/gsousaigor)
+[<img align="center" height="35" width="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">](href="https://www.github.com/gsousaigor)
 
 ### Badges
 
