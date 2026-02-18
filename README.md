@@ -47,16 +47,6 @@ Com uma trajetória sólida como **Analista de Suporte de TI Sênior**, estou un
 
 ---
 
-### 📊 Estatísticas e Atividade
-
-<p align="left">
-  <a href="https://github.com/gsousaigor">
-    <img src="https://github-readme-stats.vercel.app/api?username=gsousaigor&show_icons=true&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&hide_border=true" Alt="Estatísticas do GitHub" />
-  </a>
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 <p align="left">
